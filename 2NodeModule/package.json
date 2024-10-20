@@ -1,0 +1,12 @@
+{
+  "name": "2nodemodule",
+  "version": "1.0.0",
+  "description": "its about how we are going to export code from one file (module) to require in another file (module)",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node calculator.js"
+  },
+  "author": "harshvardhan",
+  "license": "ISC"
+}
